@@ -1,0 +1,12 @@
+cv_env/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.mp4
+*.avi
+*.flv
+.DS_Store
+tuning_config.json
+task6_config.json
